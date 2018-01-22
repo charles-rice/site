@@ -20,7 +20,7 @@ a:focus,
 a:active,
 a.active {
   color: #18BC9C;
-  /*color: #14a863*/
+  /*color: #006b37*/
 }
 h1,
 h2,
@@ -57,7 +57,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #14a863;
+  background-color: #006b37;
   color: white;
 }
 hr.star-primary {
@@ -72,7 +72,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #14a863;
+  background: #006b37;
   color: white;
 }
 header .container {
@@ -97,11 +97,11 @@ header .intro-text .skills {
 }
 @media (min-width: 768px) {
   header .container {
-    padding-top: 200px;
-    padding-bottom: 100px;
+    padding-top: 175px;
+    padding-bottom: 75px;
   }
   header .intro-text .name {
-    font-size: 4.75em;
+    font-size: 3.75em;
   }
   header .intro-text .skills {
     font-size: 1.75em;
@@ -132,7 +132,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:hover {
   /*color: #18BC9C;*/
-  color: #14a863;
+  color: #006b37;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -140,13 +140,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #14a863;
+  background: #006b37;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #14a863;
+  background: #006b37;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -188,7 +188,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #14a863;
+  background: #006b37;
   color: white;
 }
 @media (max-width: 767px) {
