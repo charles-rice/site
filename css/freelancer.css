@@ -70,6 +70,15 @@ hr.star-primary:after {
 .img-centered {
   margin: 0 auto;
 }
+
+/* iframe {
+    display: block;
+    width: 850;
+    height: 1100;
+    margin: 0 auto;
+    border: 0;
+} */
+
 header {
   text-align: center;
   background: #006b37;
